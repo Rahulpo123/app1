@@ -1,0 +1,36 @@
+.active{
+    display: block;
+}
+.passive{
+    display: none;
+}
+body{
+    overflow-y: hidden !important;
+    overflow-x: hidden !important;
+    background: linear-gradient(87deg,#FF512F,#DD2476);
+    height: 100%;
+    width: 100%;
+    
+}
+#one, #two , #three, #four , #five{
+    height: 80vh;
+    width: 80%;
+    background-color: #000000aa;
+    color: white;
+   
+    
+}
+
+button{
+    color: white;
+}
+button{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 80%;
+    left: 77%;
+}
+#one h3{
+    
+
+}
